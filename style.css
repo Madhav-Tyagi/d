@@ -1,0 +1,195 @@
+audio::-webkit-media-controls-panel {
+    border: 0px;
+    box-shadow: 0px;
+    background-color: #d4afe9;
+}
+audio{
+    height: 55px;
+    background-color: #d4afe9;
+    width: 100%;
+    max-width: 250px;
+    border: 0px solid;
+    border-radius: 0px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.songs{
+    height:55px;
+}
+h1,h2{
+  font-weight: 600;
+}
+
+#title{
+  font-style:normal;
+  font-family: fantasy;
+  font-weight: 700;
+  color:rgb(0, 0, 0);
+}
+body {
+    
+  font-family: fantasy;
+  }
+  
+  .quiz-container {
+    width: 90%;
+    margin: 8%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    
+  background-color: rgba(255, 255, 255, 0.274);
+  }
+  
+  .question {
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"] {
+    width: 80%;
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button { 
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+
+  .container {
+    object-position: center;
+
+}
+@media screen and (min-width: 480px) {
+  .container{  margin: auto;
+    width: 75%;
+    padding: 10px;}
+}
+
+.surprise-box {
+    width: 340px;
+    height: 300px;
+    
+  background-color: rgba(255, 255, 255, 0.274);
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+
+
+button {
+    padding: 10px 20px;
+    background-color: #ff69b4;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+#special{
+  width: 320px;
+}
+
+body{
+  width:99%;
+  align-self: center;
+  padding: 1px;
+  margin: 1px;
+  margin-left:3px ;
+  background-color: rgba(255, 20, 145, 0.274);
+}
+
+#love-letter{
+  width: 88%;
+  border-radius: 20px;
+  padding: 3%;
+  border: 2px solid salmon;
+  font-size: small;
+  margin: 10px;
+  background-color: #f582ff8e;
+  
+  font-family: cursive;
+
+}
+*{ text-align: center;}
+
+
+#compliment{
+  height: 100px;
+  border: 2px slateblue solid;
+  border-radius: 20px;
+  background-color: rgb(215, 188, 240);
+  width: 85%;
+  margin-left:6% ;
+  padding: 1%;
+  font-family: cursive;
+}
+
+
+.countdown{
+  background-color: #f03ec3;
+  padding: 6px;
+  border-radius: 10px;
+  color:white;
+  font-family: serif;
+}
+b{
+  color:black;
+  background-color: aqua;
+  padding: 2px;
+  border-radius: 4px;
+}
+#compliment-gen{
+  background-color: rgb(169, 248, 235);
+  margin:5px;
+  padding: 2%;
+  border: 5px solid mediumaquamarine;
+  border-radius: 20px;
+}
+#songs{
+  border-radius: 20px;
+  border: 5px solid rgb(238, 175, 212);
+  padding: 10px;
+  background-color: rgba(208, 165, 228, 0.438);
+  margin: 20px;
+
+}
+#QNA{
+  width: 90%;
+}
+form{
+  font-weight:700;
+  font-family:sans-serif;
+}
+
+#gift{
+  object-position: center;
+}
+
+.rejection{
+  width: 250px;
+  height: 100px;
+  margin-top: 20px;
+}
+
+#surpriseBox>h1{
+  margin-top: 100px;
+  color: #f00aec;
+  font-size: xx-large;
+  font-weight: 400;
+}
+
